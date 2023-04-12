@@ -6,7 +6,7 @@
 
 <!-- please enter link to site preview here -->
 
-[Project live site]()
+[Project live site](https://estorelabs.github.io/RC---220908-LO-366-Matrix-Food-For-Soft-Odzywka-FRISER/)
 
 ## PROJECT PREVIEW
 
